@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everyone!! 👋
+I'm Urvashi Guzadhur, AKA Vedika. I'm actually new to the github world. 
+- 🌱 I’m currently learning Full stack coding. I can't wait to learn more.✨
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I was actually a classical Bharatnatyam dancer. 😄😊
 
 <!--
 **Urvashi210/Urvashi210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
